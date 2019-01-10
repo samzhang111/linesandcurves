@@ -3,3 +3,4 @@ This may turn into a collection of interactive visualizations of problems in the
 To see them in action, go to these blog posts:
 - [cats on ladders](https://sam.zhang.fyi/2018/12/18/cats-on-ladders/)
 - [copernicus's theorem and hypocycloids](https://sam.zhang.fyi/2018/12/18/hypocycloids/)
+- [treasure hunting](https://sam.zhang.fyi/2019/01/09/treasure-hunting/) (similarly spirited, but from a different book, linked to in the blogpost)
